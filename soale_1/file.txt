@@ -1,0 +1,7 @@
+I think among specialists, the most overblown concern is pleiotropy.
+The modal geneticist probably tends to overestimate the amount of pleiotropy in the genome.
+Often they don't really have good intuitions for high dimensional spaces,
+or they were told in a textbook that pleiotropy is significant.
+But all of our empirical tests show that pleiotropy is not that strong,
+so you can have big gains which are pretty safe,
+or you can boost one trait without necessarily screwing up something else.
